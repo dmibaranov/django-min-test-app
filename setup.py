@@ -11,5 +11,5 @@ setup(
     install_requires = [
         "Django",
     ],
-    test_suite = "django_min_test_app.tests.runtests"
+    test_suite = "runtests.main"
 )

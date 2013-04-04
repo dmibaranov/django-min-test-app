@@ -1,0 +1,10 @@
+Simple django application with self-testing
+===========================================
+
+Includes a sample of min application (`django_min_test_app.test.project`)
+with tests for extended functional of `django_min_test_app`
+
+Usage
+=====
+
+$ python setup.py test
